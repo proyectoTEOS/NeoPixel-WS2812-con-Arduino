@@ -10,7 +10,7 @@
   WEB https://www.proyecto-teos.com
 */
 
-#include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h> //https://github.com/adafruit/Adafruit_NeoPixel
 uint8_t pinPixelT = 2;
 uint8_t widthT = 3;
 uint16_t rateT = 35;

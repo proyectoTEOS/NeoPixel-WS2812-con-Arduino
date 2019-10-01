@@ -3,7 +3,7 @@ En esta ocasión veremos como crear un efecto "larson Scanner" utilizando una ti
 
 ### Requisitos
 - Tener el IDE de [Arduino](https://www.arduino.cc/en/Main/Software) (o el de tu preferencia) con la versión más actual
-- Contar con las librería [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+- Contar con la librería [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 - Tener el material para hacer el proyecto
 
 ### Código
